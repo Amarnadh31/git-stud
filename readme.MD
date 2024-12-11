@@ -5,3 +5,4 @@
 7th - jan'24 - hindi
 8th - jan'24 - maths
 9th - jan'24 - science
+10th - jan'24 - social
