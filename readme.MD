@@ -17,3 +17,4 @@
 
 # bread-jam
 * bread
+* jam
