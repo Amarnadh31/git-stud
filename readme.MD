@@ -10,3 +10,5 @@
 # travel
 
 * booked ticket online
+* reached bus stand
+* entered into the bus
