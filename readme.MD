@@ -18,3 +18,4 @@
 # bread-jam
 * bread
 * jam
+* garnished by jam over the corners of bread
