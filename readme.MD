@@ -22,3 +22,4 @@
 
 # Booking movie tickets via BMS
 * Movie Name: Game Changer
+* theater Name: sai chitra
