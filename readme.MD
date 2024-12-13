@@ -19,3 +19,13 @@
 * bread
 * jam
 * garnished by jam over the corners of bread
+
+# Booking new movie ticket
+* Movie name : Pushpa
+* theater name: sri krishna
+* show timing : 2:00 PM IST
+* seating position : Reserved
+* ticket price: 220rs
+* no. of tickets: 3
+* payment done online
+* tickets booked successfully
