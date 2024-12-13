@@ -22,3 +22,4 @@
 
 # Booking new movie ticket
 * Movie name : Pushpa
+* theater name: sri krishna
