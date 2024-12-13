@@ -26,3 +26,4 @@
 * show timing : 2:00 PM IST
 * seating position : Reserved
 * ticket price: 220rs
+* no. of tickets: 3
